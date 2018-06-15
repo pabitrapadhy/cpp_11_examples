@@ -8,8 +8,18 @@
 
 #include <iostream>
 
+/* Header file inclusion */
+// NOTE: include the header file for the logic you want to execute
+//#include "example.h"
+//#include "nullptr.h"
+#include "nullptr_t.h"
+
+using namespace std;
+using namespace PP_CPP11;
+
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    
+    // invoke execution
+    execute();
     return 0;
 }
