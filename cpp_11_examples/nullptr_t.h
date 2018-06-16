@@ -6,6 +6,7 @@
 //  Copyright © 2018 Padhy, Pabitra. All rights reserved.
 //
 
+/* https://www.geeksforgeeks.org/understanding-nullptr-c/ */
 #ifndef nullptr_t_h
 #define nullptr_t_h
 
