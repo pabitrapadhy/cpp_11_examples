@@ -17,7 +17,8 @@
 //#include "initializer_list.h"
 //#include "ranged_based_for_loop.h"
 //#include "constexpr.h"
-#include "Array.h"
+//#include "array.h"
+#include "lambdas.h"
 
 using namespace std;
 using namespace PP_CPP11;

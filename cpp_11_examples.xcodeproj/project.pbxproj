@@ -24,7 +24,8 @@
 
 /* Begin PBXFileReference section */
 		2F072D2E20D5A77200B1EBCA /* ranged_based_for_loop.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ranged_based_for_loop.h; sourceTree = "<group>"; };
-		2F3307B8210CEE9000C1335C /* Array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Array.h; sourceTree = "<group>"; };
+		2F3307B8210CEE9000C1335C /* array.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = array.h; sourceTree = "<group>"; };
+		2F3307B9210D03E900C1335C /* lambdas.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lambdas.h; sourceTree = "<group>"; };
 		2F52C40F20FBBDE900909AA1 /* constexpr.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = constexpr.h; sourceTree = "<group>"; };
 		2F61B12920D4E574007EC866 /* auto.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = auto.h; sourceTree = "<group>"; };
 		2F61B12A20D4E866007EC866 /* initializer_list.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = initializer_list.h; sourceTree = "<group>"; };
@@ -66,6 +67,7 @@
 			isa = PBXGroup;
 			children = (
 				2FA8357120D428D000198DF4 /* main.cpp */,
+				2F3307B9210D03E900C1335C /* lambdas.h */,
 				2FAAA09B20D4335F005A55EC /* nullptr.h */,
 				2FAAA09C20D44BD7005A55EC /* nullptr_t.h */,
 				2F61B12920D4E574007EC866 /* auto.h */,
@@ -73,7 +75,7 @@
 				2F072D2E20D5A77200B1EBCA /* ranged_based_for_loop.h */,
 				2FA8357820D42C9A00198DF4 /* example.h */,
 				2F52C40F20FBBDE900909AA1 /* constexpr.h */,
-				2F3307B8210CEE9000C1335C /* Array.h */,
+				2F3307B8210CEE9000C1335C /* array.h */,
 			);
 			path = cpp_11_examples;
 			sourceTree = "<group>";
