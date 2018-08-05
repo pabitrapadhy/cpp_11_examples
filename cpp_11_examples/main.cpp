@@ -13,12 +13,12 @@
 //#include "example.h"
 //#include "nullptr.h"
 //#include "nullptr_t.h"
-//#include "auto.h"
+#include "auto.h"
 //#include "initializer_list.h"
 //#include "ranged_based_for_loop.h"
 //#include "constexpr.h"
 //#include "array.h"
-#include "lambdas.h"
+//#include "lambdas.h"
 
 using namespace std;
 using namespace PP_CPP11;
